@@ -24,7 +24,7 @@
     width: $hexWidth;
     height: $hexHeight;
     float: left;
-    margin-left: -29px;
+    margin-left: 29px;
     z-index: 0;
     position: relative;
     @include transform(rotate(30deg));
